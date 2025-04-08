@@ -8,7 +8,7 @@ import yaml
 # Ensure the "logs" directory exists
 log_dir = 'logs'
 os.makedirs(log_dir, exist_ok=True)
-
+#we will start the modification
 
 # logging configuration
 logger = logging.getLogger('data_ingestion')
